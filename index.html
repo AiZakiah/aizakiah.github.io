@@ -152,14 +152,12 @@
 
 <script src="assets/libs/js/bootstrap.bundle.min.js"></script>
 
+
 <script>
     $(document).ready(function() {
-        $.ajax({
-        url : 'azka.json',
-        type : 'POST',
-        dataType : "json",
-        success: function handledata(data){
-          var strjson = JSON.stringify(data);
+        $.getJSON('azka.json',
+          function(data){
+       
       for (var i = 0 ; i < data.data.length ; i++){
           $('#list').append("<div class= 'card mb-3' style='width: 200px; display: inline-block; margin: 15px; '>"
             +"<div><img src='"+ data.data[i].img+"'class='card-img-top' alt='...' style= 'width : 200px'; height :'300px';><span class='diskon'>"+data.data[i].diskon+"</span></div><div class='card-body'>" 
@@ -167,7 +165,7 @@
           + data.data[i].Nama+"</acronym></h5>"
           + "<p class='card-text' style='color:red;'><del style='color:grey;'>"+data.data[i].hrg+"</del><br><b>"+data.data[i].Harga+"</b></p><img src='"+data.data[i].ranting+"' style='width:100px; height:30px; float:left;'>171</div><div class='nilai'>"+data.data[i].nilai+"<p>"+data.data[i].alamat+"</div>");
 
-        }
+        
       }
     });
   });
