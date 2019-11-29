@@ -1,0 +1,205 @@
+{
+	"data":
+	[
+		{	
+			"img" : "assets/images/baju1.jpg",
+			"Nama": "HOT PROMO Baju Gamis Rania",
+			"Harga": "Rp 135.000",
+			"hrg" : "Rp 150.000",
+			"nilai" : "Butik Muslimah",
+			"diskon": "10%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/baju2.jpg",
+			"Nama": "HOT PROMO Baju Gamis Harnis Syar'i",
+			"Harga": "Rp 90.000",
+			"hrg" : "Rp 100.000",
+			"nilai" : "Butik Muslimah",
+			"diskon": "10%",
+			"ranting" :"assets/images/bintang2.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/jaket1.jpg",
+			"Nama": "HOT PROMO Jaket Color Blue",
+			"Harga": "Rp 140.000",
+			"hrg" : "Rp 200.000",
+			"nilai" : "Forest Gump",
+			"diskon": "30%",
+			"ranting" :"assets/images/bintang3.png",
+			"alamat" : "Bogor"
+
+		},
+		{	
+			"img" : "assets/images/kemeja.jpg",
+			"Nama": "HOT PROMO Kemeja Pria Putih",
+			"Harga": "Rp 80.000",
+			"hrg" : "Rp 100.000",
+			"nilai" : "Forest Gump",
+			"diskon": "20%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Bogor"
+
+		},
+		{	
+			"img" : "assets/images/sepatu1.jpg",
+			"Nama": "HOT PROMO Sepatu ",
+			"Harga": "Rp 102.000",
+			"hrg" : "Rp 120.000",
+			"nilai" : "Grutty Sepatu",
+			"diskon": "15%",
+			"ranting" :"assets/images/bintang3.png",
+			"alamat" : "Bandung"
+
+		},
+		{	
+			"img" : "assets/images/topi1.jpg",
+			"Nama": "HOT PROMO Topi Boy",
+			"Harga": "Rp 66.500",
+			"hrg" : "Rp 70.000",
+			"nilai" : "Sazkia Bordir",
+			"diskon": "5%",
+			"ranting" :"assets/images/bintang2.png",
+			"alamat" : "Bandung"
+
+		},
+		{	
+			"img" : "assets/images/gtn.png",
+			"Nama": "HOT PROMO Gantungan Kunci Siul Unik Key Finder On Off",
+			"Harga": "Rp 17.600",
+			"hrg" : "Rp 18.500",
+			"nilai" : "Sunshine corona",
+			"diskon": "5%",
+			"ranting" :"assets/images/bintang3.png",
+			"alamat" : "Jakarta Pusat"
+
+		},
+		{	
+			"img" : "assets/images/Kebaya.jpg",
+			"Nama": "HOT PROMO Kebaya Couple",
+			"Harga": "Rp 182.000",
+			"hrg" : "Rp 220.000",
+			"nilai" : "Sunshine corona",
+			"diskon": "17%",
+			"ranting" :"assets/images/bintang2.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/boneka.png",
+			"Nama": "HOT PROMO Dipa75 Gantungan Kunci Boneka",
+			"Harga": "Rp 10.600",
+			"hrg" : "Rp 15.700",
+			"nilai" : "Sunshine corona",
+			"diskon": "33%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/jam.jpg",
+			"Nama": "HOT PROMO Jam Tangan Pria Digital SKMEI 1251 Black Water Resistant 50m",
+			"Harga": "Rp 63.600",
+			"hrg" : "Rp 79.500",
+			"nilai" : "Sunshine corona",
+			"diskon": "20%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/bola.jpg",
+			"Nama": "HOT PROMO TACHIKARA Bola Basket Rubber-Ungu",
+			"Harga": "Rp 81.000",
+			"hrg" : "Rp 269.000",
+			"nilai" : "Sunshine corona",
+			"diskon": "70%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/kmc.jpg",
+			"Nama": "HOT PROMO BUY 1 GET 1 FREE Kemoceng Microfiber Pembersih Debu",
+			"Harga": "Rp 72.000",
+			"hrg" : "Rp 80.000",
+			"nilai" : "Sunshine corona",
+			"diskon": "10%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/h.jpg",
+			"Nama": "HOT PROMO Headset Handsfree Bluetooth Cable JBL Wireless Superbass Magnetic",
+			"Harga": "Rp 18.500",
+			"hrg" : "Rp 37.000",
+			"nilai" : "Sunshine corona",
+			"diskon": "50%",
+			"ranting" :"assets/images/bintang2.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/g.png",
+			"Nama": "HOT PROMO Createkat Smart Band Calories Burn Activity Smart Watch Original Garansi Resmi",
+			"Harga": "Rp 393.400",
+			"hrg" : "Rp 596.000",
+			"nilai" : "Sunshine corona",
+			"diskon": "34%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/sdl.jpg",
+			"Nama": "HOT PROMO SATUAN Sandal Wanita - Sendal Jepit Swallow Army - Sendal Pantai",
+			"Harga": "Rp 11.000",
+			"hrg" : "Rp 22.000",
+			"nilai" : "Sunshine corona",
+			"diskon": "50%",
+			"ranting" :"assets/images/bintang3.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/baju2.jpg",
+			"Nama": "HOT PROMO Baju Gamis Harnis Syar'i",
+			"Harga": "Rp 90.000",
+			"hrg" : "Rp 100.000",
+			"nilai" : "Butik Muslimah",
+			"diskon": "10%",
+			"ranting" :"assets/images/bintang2.png",
+			"alamat" : "Jakarta Timur"
+
+		},
+		{	
+			"img" : "assets/images/jaket1.jpg",
+			"Nama": "HOT PROMO Jaket Color Blue",
+			"Harga": "Rp 140.000",
+			"hrg" : "Rp 200.000",
+			"nilai" : "Forest Gump",
+			"diskon": "30%",
+			"ranting" :"assets/images/bintang3.png",
+			"alamat" : "Bogor"
+
+		},
+		{	
+			"img" : "assets/images/kemeja.jpg",
+			"Nama": "HOT PROMO Kemeja Pria Putih",
+			"Harga": "Rp 80.000",
+			"hrg" : "Rp 100.000",
+			"nilai" : "Forest Gump",
+			"diskon": "20%",
+			"ranting" :"assets/images/bintang.png",
+			"alamat" : "Bogor"
+
+		}
+
+
+	]
+}
